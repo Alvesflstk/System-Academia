@@ -44,4 +44,8 @@ O Academy Management System é um sistema de gerenciamento para uma academia, de
 - Na Avaliação Física, insira altura e peso para calcular o IMC automaticamente.
 - Nas Planilhas de Treino, escolha o tipo de treino desejado e clique no botão para baixar a planilha em formato PDF.
 
+  ## views do projeto
+
+<img src="https://github.com/Alvesflstk/System-Academia/assets/111323514/b20660fb-77e3-420a-844f-f0493585508a"/>
+<img src="https://github.com/Alvesflstk/System-Academia/assets/111323514/625b70b2-e1a8-4d4c-a12b-6fb207c690c0"/>
 
