@@ -20,8 +20,7 @@ O Academy Management System é um sistema de gerenciamento para uma academia, de
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seuusuario/academy-management-system.git
-    cd academy-management-system
+    git clone git@github.com:Alvesflstk/System-Academia.git
     ```
 
 2. Instale as dependências:
